@@ -1,6 +1,6 @@
 # sklep
 
-<h1>Poradnik: Jak stworzyć (najtaniej) sklep internetowy</h1>
+<h1>Poradnik: Jak (najtaniej) stworzyć sklep internetowy</h1>
 
 <h2>Krok 1 – Domena</h2>
 Aby stworzyć sklep internetowy, musisz najpierw kupić domenę. Ja kupuję domeny na
