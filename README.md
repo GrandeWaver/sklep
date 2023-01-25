@@ -43,6 +43,7 @@ produktów na stronie. Innymi przydatnymi wtyczkami są
 polecam też google analytics
 ● InpostPaczkomatyPlugin, 
 ● Yoast SEO
+<img src="img/4.png">
 
 <h2>Krok 5 – Maile</h2>
 Musisz ustawić wtyczkę MailPoet, aby móc wysyłać maile odnośnie zamówień do klientów.
