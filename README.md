@@ -16,7 +16,9 @@ https://www.zoho.com/mail/help/adminconsole/add-domains.html
 2. Potwierdź że to twoja domena dodając różne rekordy DNS. W panelu na home.pl
 przejdź do zakładki domeny > działania > zarządzaj rekordami DNS > dodaj nowy
 rekord. Wybierz odpowiedni rekord, wklej wartości i potwierdź weryfikację na zoho.
+
 3. Powtórz to ze wszystkimi DNSami o które prosi zoho.
+
 4. Sprawdź czy maile przychodzą do skrzynki i czy można wysyłać i czy wiadomości
 nie wpadają do spamu (między np. kontem gmail a zoho).
 
@@ -35,14 +37,18 @@ WooCommerce. Wybierz templatkę sklepu i edytuj wszystko według potrzeb. Dodaj 
 logo, zdjęcia, stopkę, nagłówek itp. Polecam skorzystać z ChatGPT do opisów na stronie, a
 zdjęcia wziąć np. z pexels tak, aby nie było problemów z prawami autorskimi. Zalecam także
 zainstalowanie wtyczki Woocommerce Product Ultimate, aby poprawić prezentację
-produktów na stronie. Innymi przydatnymi wtyczkami są
-● WooCommerce Stripe Gateway (https://stripe.com/en-pl),
-● Smush,
-● LoftLoader,
-● Site Kit od Google,
-polecam też google analytics
-● InpostPaczkomatyPlugin, 
-● Yoast SEO
+produktów na stronie. 
+<img src="img/1.png">
+Innymi przydatnymi wtyczkami są
+● WooCommerce Stripe Gateway (https://stripe.com/en-pl),<br>
+● Smush,<br>
+● LoftLoader,<br>
+● Site Kit od Google,<br>
+<img src="img/2.png">
+polecam też google analytics<br>
+<img src="img/3.png">
+● InpostPaczkomatyPlugin, <br>
+● Yoast SEO<br>
 <img src="img/4.png">
 
 <h2>Krok 5 – Maile</h2>
