@@ -62,7 +62,9 @@ Facebooku i Instagramie (na Pintereście witryna musi mieć przynajmniej 9 miesi
 zrobić, musisz mieć już zrobione regulaminy sklepu i politykę prywatności.
 
 <h2>Mój sklep</h2>
-https://youtu.be/Sdf28Gdgzpw
+:sparkling_heart: https://youtu.be/Sdf28Gdgzpw
+:sparkles: https://youtu.be/X3UmoCcNRLs
+:fire: https://www.youtube.com/watch?v=ks1EumDJT04
 
 <h2>Zakończenie</h2>
 Jeśli masz jakieś pytania, chętnie pomogę.
