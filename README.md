@@ -63,8 +63,10 @@ zrobić, musisz mieć już zrobione regulaminy sklepu i politykę prywatności.
 
 <h2>Mój sklep</h2>
 :sparkling_heart: https://youtu.be/Sdf28Gdgzpw
-:sparkles: https://youtu.be/X3UmoCcNRLs
+<br>
 :fire: https://www.youtube.com/watch?v=ks1EumDJT04
+<br>
+:sparkles: https://youtu.be/X3UmoCcNRLs
 
 <h2>Zakończenie</h2>
 Jeśli masz jakieś pytania, chętnie pomogę.
