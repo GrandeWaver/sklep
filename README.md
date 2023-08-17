@@ -70,3 +70,4 @@ zrobić, musisz mieć już zrobione regulaminy sklepu i politykę prywatności.
 
 <h2>Zakończenie</h2>
 Jeśli masz jakieś pytania, chętnie pomogę.
+<a href="https://www.instagram.com/kacper.machay/">ig: kacper.machay</a>
